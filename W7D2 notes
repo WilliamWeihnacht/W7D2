@@ -1,0 +1,4 @@
+W7D2 notes
+
+flash - used with redirects, stores data through next request/response cycle
+flasn.now - used with render, only lasts through current request/response cycle
